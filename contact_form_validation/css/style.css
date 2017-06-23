@@ -1,0 +1,43 @@
+/*font-family: 'Baloo Bhaina', cursive;
+//font-family: 'Open Sans', sans-serif; */
+body {
+    background:#ffffff url("../Minimalistic-Wallpaper-09.jpg") no-repeat ;
+}
+body, .container {
+  color:#fffaf9;
+
+
+
+  font-family: 'Baloo Bhaina', cursive;
+}
+.container {
+  margin: 20px auto;
+  max-width: 60%;
+  color: rgb(72, 79, 91);
+}
+
+div > form {
+
+}
+.title{
+  font-size: 2em;
+}
+footer {
+  position : relative;
+  padding-top: 30px;
+
+  height: 200px;
+
+  border-top: 2px solid white;
+  background-color: rgb(63, 68, 76);
+}
+
+
+
+.footnote {
+  text-align: center;
+
+}
+.footnote img {
+  width: 60px;
+}
